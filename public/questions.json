@@ -1,0 +1,74 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "sentence": "The ______ implementation of virtual reality in education ______ immersive learning experiences, ______ student engagement and ______ complex concepts more accessible.",
+        "blanks": ["______1", "______2", "______3", "______4"],
+        "options": ["Created", "Increasing", "Cutting-edge", "Making"],
+        "correctAnswers": ["Cutting-edge", "Created", "Increasing", "Making"]
+      },
+      {
+        "id": 2,
+        "sentence": "The ______ redesign of the public transportation system ______ efficiency and accessibility, ______ commute times and ______ the overall quality of urban life.",
+        "blanks": ["______1", "______2", "______3", "______4"],
+        "options": ["Enhancing", "Improved", "Comprehensive", "Reducing"],
+        "correctAnswers": ["Comprehensive", "Improved", "Reducing", "Enhancing"]
+      },
+      {
+        "id": 3,
+        "sentence": "The ______ documentary on ocean pollution ______ shocking footage of environmental degradation, ______ public awareness and ______ viewers to reduce their plastic consumption.",
+        "blanks": ["______1", "______2", "______3", "______4"],
+        "options": ["Eye-opening", "Featured", "Raising", "Encouraging"],
+        "correctAnswers": ["Eye-opening", "Featured", "Raising", "Encouraging"]
+      },
+      {
+        "id": 4,
+        "sentence": "______ renewable energy sources like solar and wind power ______ becoming more affordable, ______ their widespread adoption and ______ reliance on fossil fuels.",
+        "blanks": ["______1", "______2", "______3", "______4"],
+        "options": ["Reducing", "Modern", "Are", "Encouraging"],
+        "correctAnswers": ["Modern", "Are", "Encouraging", "Reducing"]
+      },
+      {
+        "id": 5,
+        "sentence": "The ______ development of artificial intelligence ______ transformed many industries, ______ new job opportunities while ______ concerns about automation.",
+        "blanks": ["______1", "______2", "______3", "______4"],
+        "options": ["Creating", "Rapid", "Has", "Raising"],
+        "correctAnswers": ["Rapid", "Has", "Creating", "Raising"]
+      },
+      {
+        "id": 6,
+        "sentence": "______ research in biotechnology ______ promising treatments for rare diseases, ______ hope for patients and ______ medical costs in the long term.",
+        "blanks": ["______1", "______2", "______3", "______4"],
+        "options": ["Offering", "Recent", "Has yielded", "Potentially reducing"],
+        "correctAnswers": ["Recent", "Has yielded", "Offering", "Potentially reducing"]
+      },
+      {
+        "id": 7,
+        "sentence": "The ______ popularity of electric vehicles ______ governments worldwide to invest in charging infrastructure, ______ consumer adoption and ______ air pollution in cities.",
+        "blanks": ["______1", "______2", "______3", "______4"],
+        "options": ["Encouraging", "Growing", "Has prompted", "Reducing"],
+        "correctAnswers": ["Growing", "Has prompted", "Encouraging", "Reducing"]
+      },
+      {
+        "id": 8,
+        "sentence": "______ advances in quantum computing ______ solve problems that are currently intractable, ______ scientific breakthroughs and ______ new industries.",
+        "blanks": ["______1", "______2", "______3", "______4"],
+        "options": ["Creating", "May", "Revolutionary", "Leading to"],
+        "correctAnswers": ["Revolutionary", "May", "Leading to", "Creating"]
+      },
+      {
+        "id": 9,
+        "sentence": "The ______ use of big data analytics ______ businesses to make informed decisions, ______ operational efficiency and ______ customer satisfaction.",
+        "blanks": ["______1", "______2", "______3", "______4"],
+        "options": ["Boosting", "Increasing", "Strategic", "Enables"],
+        "correctAnswers": ["Strategic", "Enables", "Increasing", "Boosting"]
+      },
+      {
+        "id": 10,
+        "sentence": "______ initiatives to digitize historical archives ______ preserved valuable documents, ______ access to researchers worldwide and ______ our understanding of the past.",
+        "blanks": ["______1", "______2", "______3", "______4"],
+        "options": ["Expanding", "Have", "Enhancing", "Global"],
+        "correctAnswers": ["Global", "Have", "Expanding", "Enhancing"]
+      }
+    ]
+  }
